@@ -1,1 +1,2 @@
-// Flows will be imported for their side effects in this file.
+import '@/ai/flows/analyze-email-content.ts';
+import '@/ai/flows/analyze-url.ts';
